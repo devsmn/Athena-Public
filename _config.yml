@@ -22,8 +22,8 @@ author: Simon Pflaum
 navbar-links:
   #About Me: "aboutme"
   Resources:
-    - "What's new?": "changelog"
-    - Roadmap: "roadmap"
+    - "What's new?": "app_changelog"
+    - Roadmap: "app_roadmap"
   #Author's home: "https://deanattali.com"
 
 ################

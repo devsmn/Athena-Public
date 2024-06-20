@@ -4,28 +4,38 @@ title: Changelog
 subtitle: Information about new features, improvements and fixes
 ---
 
-## v1.0.5 (17-06-2024)
-### Fixes
-- In some cases it wasn't possible to add tags
+## v1.0.5 - (2024-06-17)
+### Fixed
+- Fixed rare issue where it wasn't possible to add tags
 
-### Improvements
+### Changed
 - Activated ads
 
-## v1.0.4 (12-06-2024)
-### Fixes
+___
+
+## v1.0.4 - (2024-06-12)
+### Fixed
 - Fixed scaling issues on some devices after dependency updates
 
-## v1.0.3 (12-06-2024)
-### New features
+___
+
+## v1.0.3 - (2024-06-06)
+### Added
 - Documents can be moved to a different page
 
-## v1.0.2 (28-05-2024)
-### Improvements
+___
+
+## v1.0.2 - (2024-05-28)
+### Changed
 - Full-text search performance improved
 - Dependencies updated
 
-## v1.0.1 (23-05-2024)
+___
+
+## v1.0.1 - (2024-05-12)
 Various issues fixed
 
-## v1.0.0 (05-01-2024)
+___
+
+## v1.0.0 - (2024-05-01)
 Initial release of Athena: AI Document Manager

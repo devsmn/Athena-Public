@@ -24,6 +24,9 @@ navbar-links:
   Resources:
     - "What's new?": "app_changelog"
     - Roadmap: "app_roadmap"
+    - Terms of use: "tos"
+    - Privacy police: "privacy"
+    - Copyright: "copyright"
   #Author's home: "https://deanattali.com"
 
 ################

@@ -21,9 +21,8 @@ author: Simon Pflaum
 
 navbar-links:
   #About Me: "aboutme"
-  Resources:
-    - "What's new?": "app_changelog"
-    - Roadmap: "app_roadmap"
+  "What's new?": "app_changelog"
+  Roadmap: "app_roadmap"
   Legal:
     - Terms of use: "tos"
     - Privacy policy: "privacy"

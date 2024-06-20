@@ -26,7 +26,7 @@ navbar-links:
     - Roadmap: "app_roadmap"
   Legal:
     - Terms of use: "tos"
-    - Privacy police: "privacy"
+    - Privacy policy: "privacy"
     - Copyright: "copyright"
   #Author's home: "https://deanattali.com"
 

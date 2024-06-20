@@ -8,4 +8,8 @@ author: Simon Pflaum
 
 The google play closed alpha testing stage soon comes to an end. As of today, 7 days are left until I can apply for production and thus release the app to the public.
 
-I've planned to release a v1.1.x version, containg a major redesign of the UI and other improvments. 
+Since the core functionality is already working well and there's still a bit of time left, the first public version will be v1.1.x.
+
+v1.1.x contains a major redesign of the UI and other, smaller changes.
+
+

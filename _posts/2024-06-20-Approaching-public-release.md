@@ -2,9 +2,6 @@
 layout: post
 title: Approaching public release
 subtitle: Current state and planned release
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 tags: [news]
 author: Simon Pflaum
 ---

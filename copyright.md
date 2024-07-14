@@ -1,4 +1,8 @@
 # Copyright
+
+## Icons
+Icons by [Icons8](https://icons8.com)
+
 ## CommunityToolkit.Maui (9.0.0)
 
 The MIT License (MIT)

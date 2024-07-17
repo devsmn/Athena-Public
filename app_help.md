@@ -4,11 +4,12 @@ title: Screenshots and help
 subtitle: Information about features
 ---
 
-<p>
-    <img src="assets/img/home.jpg" width="180" height="400" />
-</p>
-<p>This is your home page. It contains your most recent documents and further statistics.</p>
-<p>Use the folders and documents button to get your documents.</p>
+<div class="container">
+    <img src="../assets/img/home.jpg" width="180" height="400" />
+    <p style="display: inline-block; vertical-align:top;">
+        This is your home page. It contains your most recent documents and further statistics.
+        Use the folders and documents button to get your documents.</p>
+</div>
 
 <p>
     <picture>

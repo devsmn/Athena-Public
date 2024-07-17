@@ -22,7 +22,7 @@ subtitle: Information about new features, improvements and fixes
 - Pages were removed. Instead, folders can be nested indefinitely for more flexibility. Documents can be added directly to folders ([#6](https://github.com/devsmn/Athena/issues/6))
 - "Empty" views were improved to display more detailed information ([#17](https://github.com/devsmn/Athena/issues/17))
 - The banner ad when saving a document was removed ([#18](https://github.com/devsmn/Athena/issues/18))
-- When using the back button while creating a document, the page changes to the previous step instead of closing ([#24](https://github.com/devsmn/Athena/issues/24)
+- When using the back button while creating a document, the page changes to the previous step instead of closing ([#24](https://github.com/devsmn/Athena/issues/24))
 
 ___
 

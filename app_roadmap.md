@@ -7,7 +7,7 @@ subtitle: Planned features and changes in future versions
 ## v1.1.1 - Next version
 
 ___
-## v1.1.0 - (released at 2025-07-xx)
+## v1.1.0 - (released at 2025-07-17)
 ### New features 
 - UI rework
   - The UI will be improved to help managing documents even easier

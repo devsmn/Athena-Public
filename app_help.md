@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Screenshots and help
-subtitle: Information about features
+title: Features walkthrough
+subtitle: Information and screenshots about features
 ---
 
 <div class="container">

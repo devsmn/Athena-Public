@@ -4,7 +4,7 @@ title: Changelog
 subtitle: Information about new features, improvements and fixes
 ---
 
-## v1.1.0 - (2024-07-xx) - Current release
+## v1.1.0 - (2024-07-17) - Current release
 ### Added
 - Added option to submit feedback (bugs, new features or general feedback) in the settings view  ([#30](https://github.com/devsmn/Athena/issues/30))
 - Document tags are displayed in all overviews ([#9](https://github.com/devsmn/Athena/issues/9))

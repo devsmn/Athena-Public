@@ -27,6 +27,7 @@ navbar-links:
     - Terms of use: "tos"
     - Privacy policy: "privacy"
     - Copyright: "copyright"
+  Walkthrough: "app_help"
   #Author's home: "https://deanattali.com"
 
 ################

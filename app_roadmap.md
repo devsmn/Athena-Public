@@ -6,6 +6,7 @@ subtitle: Planned features and changes in future versions
 
 ## Next version
 - TBD
+
 ___
 
 ## Not assigned to a version 

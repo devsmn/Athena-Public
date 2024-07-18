@@ -4,9 +4,17 @@ title: Roadmap
 subtitle: Planned features and changes in future versions 
 ---
 
-## v1.1.1 - Next version
+## Next version
+- TBD
+___
+
+## Not assigned to a version 
+### New features 
+- Alerts for documents so you don't miss important dates
+- Overview with individual important information (numbers, tax information, ...)
 
 ___
+
 ## v1.1.0 - (released at 2024-07-17)
 ### New features 
 - UI rework

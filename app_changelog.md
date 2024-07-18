@@ -4,7 +4,17 @@ title: Changelog
 subtitle: Information about new features, improvements and fixes
 ---
 
-## v1.1.0 - (2024-07-17) - Current release
+## v1.1.1 - (2024-07-18) - Current release
+### Changed
+- Updated thid-party dependencies to fix issues with certain android versions ([#34](https://github.com/devsmn/Athena/issues/34))
+- The help button in the settings view now points to the help page ([#33](https://github.com/devsmn/Athena/issues/33))
+
+### Fixed
+- An issue when deleting nested folders was fixed ([#31](https://github.com/devsmn/Athena/issues/31))
+
+___
+
+## v1.1.0 - (2024-07-17) 
 ### Added
 - Added option to submit feedback (bugs, new features or general feedback) in the settings view  ([#30](https://github.com/devsmn/Athena/issues/30))
 - Document tags are displayed in all overviews ([#9](https://github.com/devsmn/Athena/issues/9))

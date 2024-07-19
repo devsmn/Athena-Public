@@ -17,7 +17,3 @@ ___
 - The order of the recent documents should be changed so that the most recent one is at the top
 - Support more document types (.docx, ...)
 
-___
-
-## v1.1.0 - (released at 2024-07-17)
-See [release notes](https://devsmn.github.io/Athena-Public/app_changelog/)

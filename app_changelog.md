@@ -4,7 +4,13 @@ title: Changelog
 subtitle: Information about new features, improvements and fixes
 ---
 
-## v1.1.1 - (2024-07-18) - Current release
+## v1.1.2 - (2024-07-19) - Current release
+### Added
+- Added support for Android 10 (SDK 29) ([#35](https://github.com/devsmn/Athena/issues/35))
+
+___
+
+## v1.1.1 - (2024-07-18) 
 ### Changed
 - Updated thid-party dependencies to fix issues with certain android versions ([#34](https://github.com/devsmn/Athena/issues/34))
 - The help button in the settings view now points to the help page ([#33](https://github.com/devsmn/Athena/issues/33))

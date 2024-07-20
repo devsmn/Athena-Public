@@ -11,6 +11,7 @@ ___
 
 ## Not assigned to a version 
 ### New features 
+- German website translation 
 - Sync/transfer documents
 - Multi-selection for folders and documents
 - Dark mode

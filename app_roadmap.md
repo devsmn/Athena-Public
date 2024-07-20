@@ -11,7 +11,7 @@ ___
 
 ## Not assigned to a version 
 ### New features 
-- Sync/Transfert documents
+- Sync/transfer documents
 - Multi-selection for folders and documents
 - Dark mode
 - Alerts for documents so you don't miss important dates

@@ -11,6 +11,8 @@ ___
 
 ## Not assigned to a version 
 ### New features 
+- Multi-selection for folders and documents
+- Dark mode
 - Alerts for documents so you don't miss important dates
 - Overview with individual important information (numbers, tax information, ...)
 - The database will be fully encrypted and cannot be accessed without authorization

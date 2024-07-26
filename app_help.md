@@ -43,8 +43,8 @@ subtitle: Information and screenshots about features
         <p>In the search tab, you can search for documents with a specific name, or for specific text within documents. </p>
         <p>To search for specific text within documents, enable the <strong>full text search</strong> option.
         In this example, the user wants to find all documents that contain the text <strong>note</strong>.</p>
-        <p> By default, only full words are searched. If you want to search for partial words, add a * after the search text,
-        <u>Example</u>:
+        <p> By default, only full words are searched. If you want to search for partial words, add a * after the search text.</p>
+        <p></p><u>Example</u>:
         A search for <strong>note </strong>will not yield documents that contain the text notepad - only those that contain the word <strong>note</strong>.
         However, a search with <strong>note*</strong> will yield documents that contain the word <strong>notepad </strong>as well as <strong>note</strong>. </p>
     </p>

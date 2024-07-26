@@ -4,7 +4,16 @@ title: Changelog
 subtitle: Information about new features, improvements and fixes
 ---
 
-## v1.1.2 - (2024-07-19) - Current release
+## v1.1.3 - (2024-07-26) - Current release
+### Changed
+- The 'Detect text in documents' option is enabled by default when adding a new document ([#41](https://github.com/devsmn/Athena/issues/41))
+
+### Fixed
+- Deleted documents were still visible in some cases ([#42](https://github.com/devsmn/Athena/issues/42))
+
+___
+
+## v1.1.2 - (2024-07-19) 
 ### Added
 - Added support for Android 10 (SDK 29) ([#35](https://github.com/devsmn/Athena/issues/35))
 

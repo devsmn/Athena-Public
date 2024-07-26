@@ -4,7 +4,7 @@ title: Roadmap
 subtitle: Planned features and changes in future versions 
 ---
 
-## Next version
+## Next version (v1.1.4)
 - TBD
 
 ___

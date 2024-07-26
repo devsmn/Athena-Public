@@ -5,12 +5,12 @@ subtitle: Planned features and changes in future versions
 ---
 
 ## Next version
-- Dark mode
-
+- TBD
 ___
 
 ## Not assigned to a version 
 ### New features 
+- Dark mode
 - German website translation 
 - Sync/transfer documents
 - Multi-selection for folders and documents

@@ -4,7 +4,15 @@ title: Changelog
 subtitle: Information about new features, improvements and fixes
 ---
 
-## v1.1.3 - (2024-07-26) - Current release
+## v1.1.4 - (2025-04-18) - Current release
+### Changed
+- Housekeeping: Update dependencies ([#47](https://github.com/devsmn/Athena/issues/47))
+- Tag overview: Hide delete button when adding a new tag ([#46](https://github.com/devsmn/Athena/issues/46))
+
+___
+
+
+## v1.1.3 - (2024-07-26)
 ### Changed
 - The 'Detect text in documents' option is enabled by default when adding a new document ([#41](https://github.com/devsmn/Athena/issues/41))
 

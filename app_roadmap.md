@@ -27,4 +27,4 @@ ___
 - The database will be fully encrypted and cannot be accessed without authorization
 - The order of the recent documents should be changed so that the most recent one is at the top
 - Support more document types (.docx, ...)
-
+- Backups can be created and imported

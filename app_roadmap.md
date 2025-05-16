@@ -12,6 +12,7 @@ subtitle: Planned features and changes in future versions
 - The user interface is improved to make the app look at bit nicer
 - ToS changes are mentioned when starting the app for the first time with a new version
 - Various perforance improvements
+- Pinned folder/documents are saved correctly
 ___
 
 ## Not assigned to a version 

@@ -4,9 +4,14 @@ title: Roadmap
 subtitle: Planned features and changes in future versions 
 ---
 
-## Next version (v1.1.4)
-- TBD
-
+## Next version (v2.1.0)
+- Text detection supports **114** languages:
+  - You individually choose which languages you need to reduce the overall application size
+- PDFs are compressed to reduce overall application size
+- Image in PDFs qulity is improved
+- The user interface is improved to make the app look at bit nicer
+- ToS changes are mentioned when starting the app for the first time with a new version
+- Various perforance improvements
 ___
 
 ## Not assigned to a version 

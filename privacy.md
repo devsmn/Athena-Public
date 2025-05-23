@@ -1,54 +1,72 @@
 # Athena: AI Document Manager Privacy Policy
 This privacy policy is applicable to the Athena: AI Document Manager app (hereinafter referred to as "Application") for mobile devices, which was developed by Simon Pflaum (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
+## 1. Data Collection and Use
 
-## What information does the Application obtain and how is it used?
-### User Provided Information
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+The Application does **not collect or transmit any personal data** to the Service Provider or any external server. All documents and information created or managed within the Application are stored **locally on your device** and remain under your full control.
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+The Service Provider does not access, process, or store any user-created content or personal data.
 
-### Automatically Collected Information
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
 
-## Does the Application collect precise real time location information of the device?
-This Application does not gather precise information about the location of your mobile device.
 
-## Do third parties see and/or have access to information obtained by the Application?
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+## 2. Third-Party Services
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+The Application uses third-party services which may collect anonymized usage data. These include:
+
 - [Google Play Services](https://policies.google.com/privacy)
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-  
-The Service Provider may disclose User Provided and Automatically Collected Information:
-- as required by law, such as to comply with a subpoena, or similar legal process;
-- when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-- with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+These services may collect information such as device type, operating system, and general usage statistics to deliver and personalize ads. The Service Provider does not control or have access to this data.
 
-## What are my opt-out rights?
+
+
+## 3. Data Storage and Deletion
+
+All user documents are stored only on your device. The Service Provider cannot access, retrieve, or delete this data.
+
+To delete your data, you may:
+- Delete documents manually within the Application (if available),
+- Clear the Application's storage via your device settings, or
+- Uninstall the Application, which will permanently remove all locally stored data.
+
+
+
+### What are my opt-out rights?
+
 You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-## Data Retention Policy, Managing Your Information
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at phoenixsoftwaresln@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+## 4. GDPR Compliance
 
-## Children
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (phoenixsoftwaresln(at)gmail(dot)com) so that they will be able to take the necessary actions.
+In accordance with the General Data Protection Regulation (GDPR):
 
-## Security
-The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
-
-## Changes
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+- The Service Provider is **not a data controller or processor**, as no personal data is collected or processed.
+- You retain full control over your data through your device.
+- The Service Provider cannot fulfill data access, correction, or deletion requests since it does not have access to any personal data.
 
 
-This privacy policy is effective as of 2024-05-23
+
+## 5. Children’s Privacy
+
+The Application is not intended for children under 13. The Service Provider does not knowingly collect personal information from children. If you believe a child has provided personal data through third-party services, please contact those providers directly.
+
+
+
+## 6. Security
+
+While no personal data is collected by the Service Provider, security of locally stored documents is your responsibility. Avoid jailbreaking or rooting your device, which could compromise the security of locally stored data.
+
+
+
+## 7. Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page. Continued use of the Application constitutes your consent to the updated policy.
+
 
 
 ## Your Consent
 By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
 
-
 ## Contact us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at phoenixsoftwaresln(at)gmail(dot)com.
+If you have any questions about this Privacy Policy, please contact:
+
+**phoenixsoftwaresln(at)gmail(dot)com**
+

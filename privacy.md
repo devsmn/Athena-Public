@@ -65,6 +65,8 @@ This Privacy Policy may be updated from time to time. Any changes will be posted
 ## Your Consent
 By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
 
+This privacy policy is effective as of 2024-05-23
+
 ## Contact us
 If you have any questions about this Privacy Policy, please contact:
 

@@ -11,7 +11,7 @@ subtitle: Planned features and changes in future versions
 - Image in PDFs qulity is improved
 - The user interface is improved to make the app look at bit nicer
 - ToS changes are mentioned when starting the app for the first time with a new version
-- Various perforance improvements
+- Various performance improvements
 - Pinned folder/documents are saved correctly
   
 ___

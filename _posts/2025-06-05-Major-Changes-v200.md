@@ -36,4 +36,7 @@ We received some feedback that students use the app to organize and prepare for 
 To further support this, flashcards or quizzes can be generated for documents which can be used to test your knowledge.
 
 ### Financial tracking
-Receipts and other financial documents can be tracked to keep an overview on your expenses.
+Receipts and other financial documents can be tracked to keep an eye on your expenses.
+
+### Structured export
+Documents can be exported with the full folder structure.

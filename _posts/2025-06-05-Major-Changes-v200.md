@@ -14,12 +14,12 @@ Some of the highlights include:
 
 ### More safety by encrypting the data, not just restricting access to the app
 Most apps add a layer of security by restricting access to the app with biometric or other forms of validation.
-While this is sufficient in some cases, this kind if security does not protect your data. 
+While this is sufficient in some cases, this kind of security does not protect your data. 
 If someone manages to get access to your phone, the intruder can easily access your local data - because even if the app is protected with a password, the data itself is not.
 We take a different, more secure approach: We protect the data itself, not the app. Any access to the data requires biometric or other forms of validation beforehand.
 
 ### Improved scanning technology 
-Currently, scanning a document requires manual cropping. In the futur, this will be done automatically.
+Currently, scanning a document requires manual cropping. In the future, this will be done automatically.
 Additionally, the brightness, perspective and other parameters are adjusted to ensure a high quality document.
 
 ### Summaries

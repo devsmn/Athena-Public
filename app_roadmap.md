@@ -16,6 +16,7 @@ ___
 - Convert hand-written notes into text
 - Translation of detected text into different languages
 - AI summary of documents
+- Export documents with structured folders (also .zip)
 - Track receipt information (e.g. financial data such as total expenses for groceries)
 - Export financial data
 - Entity extraction for documents (key information like total price, vendor, important dates, ...)

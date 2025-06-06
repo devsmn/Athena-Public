@@ -8,16 +8,16 @@ subtitle: Planned features and changes in future versions
 - Backups
 - Alerts for documents so you don't miss important dates
 - Improved safety by protecting the data
-- 
+- Improved document scanning (automatic correction of perspective, cropping, brightness, ...)
+- Convert hand-written notes into text
+- Translation of detected text into different languages
+- Export documents with structured folders (also .zip)
+  
 ___
 
 ## Not assigned to a version 
 ### New features 
-- Improved document scanning (automatic correction of perspective, cropping, brightness, ...)
-- Convert hand-written notes into text
-- Translation of detected text into different languages
 - AI summary of documents
-- Export documents with structured folders (also .zip)
 - Track receipt information (e.g. financial data such as total expenses for groceries)
 - Export financial data
 - Entity extraction for documents (key information like total price, vendor, important dates, ...)

@@ -7,7 +7,8 @@ subtitle: Planned features and changes in future versions
 ## Next version (tbd)
 - Backups
 - Alerts for documents so you don't miss important dates
-
+- Improved safety by protecting the data
+- 
 ___
 
 ## Not assigned to a version 
@@ -21,6 +22,7 @@ ___
 - Export financial data
 - Entity extraction for documents (key information like total price, vendor, important dates, ...)
 - Generation of flashcards/quizzes for students
+- Sort by name or dates
 - Protecting PDFs with password
 - German website translation 
 - Sync/transfer documents to GoogleDrive/OneDrive

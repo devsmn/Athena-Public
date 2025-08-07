@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Release notes for v1.2.0 - (2025-05-28) 
-subtitle: What has changed in the latest release?
+title: v1.2.0 - (2025-05-28) 
+subtitle: Release notes
 ---
 
 Take a look at our [blog post](https://devsmn.github.io/Athena-Public/2025-06-05-Major-Changes-v200/) for a detailed description of each feature.

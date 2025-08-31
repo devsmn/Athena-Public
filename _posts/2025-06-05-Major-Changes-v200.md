@@ -27,20 +27,32 @@ Currently, scanning a document requires manual cropping. In the future, this wil
 Additionally, the brightness, perspective and other parameters are adjusted to ensure a high quality document.
 
 ### Summaries 🗎 
+**Update 2025-08-31**: *This feature will be implemented in a different version.*
+
 Optionally, documents can be summarized to quickly get an overview of the content.
 
 ### Transforming handwritten notes 📝 
+**Update 2025-08-31**: *This feature will be implemented in a different version.*
+
 Handwritten notes can be transformed into proper documents.
 
 ### Translation of documents 🌐 
+**Update 2025-08-31**: *This feature will be implemented in a different version.*
+
 Documents can be translated into different languages.
 
 ### Create Flashcards/quizzes ❔ 
+**Update 2025-08-31**: *This feature will be implemented in a different version.*
+
 We received some feedback that students use the app to organize and prepare for exams.
 To further support this, flashcards or quizzes can be generated for documents which can be used to test your knowledge.
 
 ### Financial tracking 💵 
+**Update 2025-08-31**: *This feature will be implemented in a different version.*
+
 Receipts and other financial documents can be tracked to keep an eye on your expenses. Relevant information is extracted automatically with our OCR and NER technology.
 
 ### Structured export 📁 
+**Update 2025-08-31**: *This feature will be implemented in a different version.*
+
 Documents can be exported with the full folder structure.

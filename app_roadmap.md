@@ -4,20 +4,16 @@ title: Roadmap
 subtitle: Planned features and changes in future versions 
 ---
 
-## Next version (tbd)
-- Backups/Transfer to other devices
-- Alerts for documents so you don't miss important dates
-- Improved safety by protecting the data
-- Improved document scanning (automatic correction of perspective, cropping, brightness, ...)
-- Convert hand-written notes into text
-- Translation of detected text into different languages
-- Export documents with structured folders (also .zip)
-- Secure important PDFs with password 
+## Next version (v2.0.0)
+- Create and restore backups
+- Improved safety by encrypting data with biometrics or password
+- Improved document scanning (automatic correction of perspective, automatic cropping, ...)
   
 ___
 
 ## Not assigned to a version 
 ### New features 
+- Recursive import of existing folders (automatically adds the documents) + Export
 - AI summary of documents
 - Track receipt information (e.g. financial data such as total expenses for groceries)
 - Export financial data
@@ -31,4 +27,3 @@ ___
 - Overview with individual important information (numbers, tax information, ...)
 - The order of the recent documents should be changed so that the most recent one is at the top
 - Support more document types (.docx, ...)
-- Backups

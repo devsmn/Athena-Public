@@ -4,7 +4,7 @@ title: v2.0.0 - (2025-09-12)
 subtitle: Release notes
 ---
 
-Take a look at our [blog post](https://devsmn.github.io/Athena-Public/2025-06-05-Major-Changes-v200/) for a detailed description of the release.
+Take a look at our [blog post](https://athena.devsmn.de/2025-09-12-Release-v200/) for a detailed description of the release.
 
 ## v2.0.0 - (2025-05-28) 
 ### Added

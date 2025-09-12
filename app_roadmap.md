@@ -4,11 +4,6 @@ title: Roadmap
 subtitle: Planned features and changes in future versions 
 ---
 
-## Next version (v2.0.0)
-- Create and restore backups
-- Improved safety by encrypting data with biometrics or password
-- Improved document scanning (automatic correction of perspective, automatic cropping, ...)
-  
 ___
 
 ## Not assigned to a version 

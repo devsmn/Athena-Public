@@ -4,7 +4,7 @@ title: v2.0.1
 subtitle: Release notes (2025-09-19)
 ---
 
-Take a look at our [blog post](https://athena.devsmn.de/2025-09-12-Release-v201/) for a detailed description of the release.
+Take a look at our [blog post](https://athena.devsmn.de/2025-09-19-Release-v201/) for a detailed description of the release.
 
 ## v2.0.1 - (2025-09-19) 
 

@@ -4,6 +4,8 @@ title: Help - Home
 subtitle: Information about the home view
 ---
 
+← Back to [documents](https://athena.devsmn.de/app_help_documents/)
+
 ## Summary
 With Athena, you can create documents based on multiple sources, such as images and PDFs. The resulting document is stored as a PDF locally on your device. 
 When creating a document, you can opt-in to extract text, which can later be used in the "Search" tab for a full-text-search over all available documents.
@@ -85,4 +87,7 @@ When creating a document, you can opt-in to extract text, which can later be use
       The last site shows the summary after creating the document. 
     </p>
 </div>
+
+
+→ Continue to [search](https://athena.devsmn.de/app_help_search/)
 

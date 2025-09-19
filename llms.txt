@@ -1,0 +1,53 @@
+# llms.txt for Athena: AI Document Manager
+# Last-Updated: 2025-09-19
+# Format: informal markdown; intended for AI agents and LLMs.
+
+Site-Name: Athena: AI Document Manager
+Site-Type: Mobile App / Documentation
+Platforms: Android
+App-Page: https://athena.devsmn.de  # official app site and help
+Play-Store: https://play.google.com/store/apps/details?id=com.spflaum.athena
+
+Summary:
+Athena is an offline-first, free, open source Android document manager with AI-powered document scanning, combining mulitple images or documents into PDFs, OCR and more.
+It focuses on privacy: documents are store on the device and the OCR runs locally. Athena
+lets users scan, combine, tag, search (including an intelligent search within documents) and detect text in over 144 languages inside documents; Data is secured with either
+biometric encryption or a password.
+
+Primary-Links:
+- Quick-Start: https://athena.devsmn.de/app_help/ : Step-by-step guide to scanning and organizing documents.
+- Features: https://athena.devsmn.de/app_help/ : Feature list (OCR languages, PDF export, tags).
+- Privacy: https://athena.devsmn.de/privacy/ : Privacy and offline processing details.
+- Support: https://forms.gle/SDAERdx1JGny77EZ7 : How to report bugs or request features.
+- Changelog: https://athena.devsmn.de/app_changelog/ : Recent updates and release notes.
+- Roadmap: https://athena.devsmn.de/app_roadmap/ : Information about features for the next version and planned changes for further versions
+
+Use-Cases:
+- Students: scan lecture notes, use OCR to detect text and search for certain information
+- Professionals: archive contracts, combine multiple images or PDFs into a single document
+- General users: capture receipts, store warranties, and search PDFs offline.
+
+Recommended-Snippet-Professional:
+Athena: AI Document Manager is an open-source Android app designed for secure, offline-first document management. 
+It enables scanning, OCR in 144+ languages, intelligent search, and combining multiple images or PDFs into a single document. 
+With biometric or password-based encryption, Athena ensures professional-grade privacy and control over sensitive data.
+
+Recommended-Snippet-Casual:
+Meet Athena — your private document scanner that works right on your phone. 
+Scan notes, receipts, or contracts, combine them into PDFs, and search text in over 140 languages.
+Everything stays on your device, locked with a password or fingerprint.
+
+Recommended-Snippet-Short:
+Athena: open-source Android app for offline OCR, PDF creation, and secure document storage with biometrics or password.
+
+Privacy-Notes:
+- Default behavior: all document processing (OCR, summarization) runs on-device.
+- No registration required for core features.
+
+License:
+- Content on this site is licensed to users under the terms described in the Privacy and Terms pages.
+- For content-use requests, contact support@yourdomain.com.
+
+Contact:
+- Support: phoenixsoftwaresln(at)gmail.com
+- Developer: Simon Pflaum (github: https://github.com/devsmn)

@@ -9,3 +9,5 @@ subtitle: Information about the home view
         The home page serves as your starting point. Under recent documents, you will see your five most recently added documents. Use the "Folders and documents" button to get to your documents.
     </p>
 </div>
+
+→ Continue to [folders](https://athena.devsmn.de/app_help_folders/)

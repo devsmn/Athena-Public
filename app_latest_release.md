@@ -1,6 +1,6 @@
 ---
 layout: page
-title: v2.0.0 - (2025-09-12) 
+title: v2.0.1 - (2025-09-19) 
 subtitle: Release notes
 ---
 

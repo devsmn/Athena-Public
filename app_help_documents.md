@@ -67,7 +67,7 @@ When creating a document, you can opt-in to extract text, which can later be use
 <div class="container" align="center">
     <img src="../assets/img/documents3.jpg" width="180" height="400" />
     <p align="left">
-      Athena supports detecting text in images and documents. To use the OCR feature, it has to be set up when using it for the first time. See (Setting up OCR)[https://devsmn.de/app_help_settings_ocr.md] for further information.
+      Athena supports detecting text in images and documents. To use the OCR feature, it has to be set up when using it for the first time. See [Setting up OCR](https://devsmn.de/app_help_settings_ocr.md) for further information.
       Enable the "Detect text in documents" option to detect text when creating the document.
     </p>
 </div>
@@ -76,7 +76,7 @@ When creating a document, you can opt-in to extract text, which can later be use
 <div class="container" align="center">
     <img src="../assets/img/documents3.jpg" width="180" height="400" />
     <p align="left">
-      Similar to folders, documents have a name and an optional comment. Additionally, documents can be tagged. Refer to (Tags)[https://devsmn.de/app_help_tags.md] for further information.
+      Similar to folders, documents have a name and an optional comment. Additionally, documents can be tagged. Refer to [Tags](https://devsmn.de/app_help_tags.md) for further information.
     </p>
 </div>
 

@@ -3,6 +3,8 @@ layout: page
 title: Help - Folders
 subtitle: Information about folders
 ---
+← Back to [home](https://athena.devsmn.de/app_help_home/)
+
 <div class="container" align="center">
     <img src="../assets/img/folders1.jpg" width="180" height="400" />
     <p align="left">
@@ -37,3 +39,6 @@ subtitle: Information about folders
       Pinned folders appear at the top. Other folders follow and are sorted by their name.
     </p>
 </div>
+
+
+→ Continue to [documents](https://athena.devsmn.de/app_help_documents/)

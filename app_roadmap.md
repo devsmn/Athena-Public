@@ -4,10 +4,10 @@ title: Roadmap
 subtitle: Planned features and changes in future versions 
 ---
 
-## Next version (v2.0.1)
-The next version will contain mostly bugfixes.
+## Next version (v2.1.0)
+*2025-09-19: Release will be planned after holiday season.*
 
-For further information, refer to the planned [issues](https://github.com/devsmn/Athena/issues?q=is%3Aissue%20milestone%3Av2.0.1) on GitHub.
+For further information, refer to the planned [issues](https://github.com/devsmn/Athena/issues?q=is%3Aissue%20milestone%3Av2.1.0) on GitHub.
 
 ___
 

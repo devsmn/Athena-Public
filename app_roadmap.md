@@ -5,7 +5,10 @@ subtitle: Planned features and changes in future versions
 ---
 
 ## Next version (v2.1.0)
-*2025-09-19: Release will be planned after holiday season.*
+The next version *v2.1.0* will focus on document/PDF related improvements:
+- Protect the document/PDF with a password (also applied after sharing the document)
+- Edit the document (add text, mark regions, etc.)
+- Add, remove or reorder pages within a document
 
 For further information, refer to the planned [issues](https://github.com/devsmn/Athena/issues?q=is%3Aissue%20milestone%3Av2.1.0) on GitHub.
 

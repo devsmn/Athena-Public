@@ -4,13 +4,16 @@ title: Roadmap
 subtitle: Planned features and changes in future versions 
 ---
 
-## Next version (v2.1.0)
-The next version *v2.1.0* will focus on document/PDF related improvements:
+## Next feature version (v2.1.0)
+The next version with improvement and features (*v2.1.0*) will focus on:
+Doument/PDF related improvements.
 - Protect the document/PDF with a password (also applied after sharing the document)
 - Edit the document (add text, mark regions, etc.)
 - Add, remove or reorder pages within a document
 
 For further information, refer to the planned [issues](https://github.com/devsmn/Athena/issues?q=is%3Aissue%20milestone%3Av2.1.0) on GitHub.
+
+**Note:** A bugfix version (*v2.0.2*) might be released in the meantime.
 
 ___
 

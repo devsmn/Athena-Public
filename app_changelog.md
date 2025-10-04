@@ -4,8 +4,19 @@ title: Changelog
 subtitle: Information about new features, improvements and fixes
 ---
 
-## Latest release: v2.0.1 (2025-09-19)
+## Latest release: v2.0.2 (2025-10-04)
 Refer to the [latest release notes](https://devsmn.github.io/Athena-Public/app_latest_release/) page for more details.
+
+___
+
+## v2.0.1 - (2025-09-19) 
+
+### Changed
+- In the tag overview, an "empty tag view" is displayed if no tags are available ([#19](https://github.com/devsmn/Athena/issues/19))
+
+### Fixed
+- There was an issue where a valid password was treated as incorrect after entering an invalid password before ([#120](https://github.com/devsmn/Athena/issues/120))
+- An error messages is displayed when trying to save an empty tag name ([#61](https://github.com/devsmn/Athena/issues/61))
 
 ___
 

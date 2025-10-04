@@ -1,16 +1,12 @@
 ---
 layout: page
-title: v2.0.1
-subtitle: Release notes (2025-09-19)
+title: v2.0.2
+subtitle: Release notes (2025-10-04)
 ---
 
-Take a look at our [blog post](https://athena.devsmn.de/2025-09-19-Release-v201/) for a detailed description of the release.
+Take a look at our [blog post](https://athena.devsmn.de/2025-04-10-Release-v202/) for a detailed description of the release.
 
-## v2.0.1 - (2025-09-19) 
-
-### Changed
-- In the tag overview, an "empty tag view" is displayed if no tags are available ([#19](https://github.com/devsmn/Athena/issues/19))
+## v2.0.2 - (2025-10-04) 
 
 ### Fixed
-- There was an issue where a valid password was treated as incorrect after entering an invalid password before ([#120](https://github.com/devsmn/Athena/issues/120))
-- An error messages is displayed when trying to save an empty tag name ([#61](https://github.com/devsmn/Athena/issues/61))
+- There were compatibility issues related to the biometric authenticatio on certain android versions (mostly SDK 29 - android 10) ([#125](https://github.com/devsmn/Athena/issues/125))

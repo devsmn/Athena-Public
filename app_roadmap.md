@@ -13,7 +13,7 @@ Doument/PDF related improvements.
 
 For further information, refer to the planned [issues](https://github.com/devsmn/Athena/issues?q=is%3Aissue%20milestone%3Av2.1.0) on GitHub.
 
-**Note:** A bugfix version (*v2.0.2*) might be released in the meantime.
+**Note:** A bugfix version (*v2.0.3*) might be released in the meantime.
 
 ___
 

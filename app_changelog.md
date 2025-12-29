@@ -4,8 +4,15 @@ title: Changelog
 subtitle: Information about new features, improvements and fixes
 ---
 
-## Latest release: v2.0.2 (2025-10-04)
+## Latest release: v2.0.3 (2025-12-29)
 Refer to the [latest release notes](https://devsmn.github.io/Athena-Public/app_latest_release/) page for more details.
+
+___
+
+## v2.0.2 - (2025-10-04) 
+
+### Fixed
+- There were compatibility issues related to the biometric authenticatio on certain android versions (mostly SDK 29 - android 10) ([#125](https://github.com/devsmn/Athena/issues/125))
 
 ___
 

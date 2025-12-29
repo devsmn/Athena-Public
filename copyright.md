@@ -241,7 +241,7 @@ SOFTWARE.
   See the License for the specific language governing permissions and
   limitations under the License.
 
-## sqlite-net-pcl (1.8.116)
+## sqlite-net-pcl (1.9.172)
 Copyright (c) Krueger Systems, Inc.
 
 All rights reserved.
@@ -264,7 +264,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## SQLitePCLRaw.bundle_green (2.1.4)/SQLitePCLRaw.provider.dynamic_cdecl (2.1.4)
+## SQLitePCLRaw.bundle_green (2.1.4)/SQLitePCLRaw.provider.dynamic_cdecl (2.1.11)
 
                                  Apache License
                            Version 2.0, January 2004
@@ -443,23 +443,7 @@ SOFTWARE.
 
    END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
+   
        http://www.apache.org/licenses/LICENSE-2.0
 
    Unless required by applicable law or agreed to in writing, software

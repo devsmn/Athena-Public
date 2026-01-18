@@ -13,7 +13,7 @@ When creating a document, you can opt-in to extract text, which can later be use
 ## Details
 ### Creating a document
 <div class="container" align="center">
-    <img src="../assets/img/documents.jpg" width="180" height="400" />
+    <img src="../assets/img/folders2.jpeg" width="180" height="400" />
     <p align="left">
        Documents are always located within a folder. To add a new document, use the plus button in the lower right corner.
     </p>
@@ -21,7 +21,7 @@ When creating a document, you can opt-in to extract text, which can later be use
 
 ### Choosing the scanner
 <div class="container" align="center">
-    <img src="../assets/img/documents2.jpg" width="180" height="400" />
+    <img src="../assets/img/documents2.jpeg" width="180" height="400" />
     <p align="left">
       When adding a document for the first time, you can decide whether to use the advanced scanner (recommended) or the legacy one. This option can always be changed in the settings.
     </p>
@@ -29,7 +29,7 @@ When creating a document, you can opt-in to extract text, which can later be use
 
 ### Sources and scanning documents
 <div class="container" align="center">
-    <img src="../assets/img/documents3.jpg" width="180" height="400" />
+    <img src="../assets/img/documents3.jpeg" width="180" height="400" />
     <p align="left">
       Currently, three document-sources are supported:
       <ol align="left">
@@ -42,14 +42,14 @@ When creating a document, you can opt-in to extract text, which can later be use
 </div>
 
 <div class="container" align="center">
-    <img src="../assets/img/documents3.jpg" width="180" height="400" />
+    <img src="../assets/img/documents3.jpeg" width="180" height="400" />
     <p align="left">
       Documents are detected and scanned automatically. 
     </p>
 </div>
 
 <div class="container" align="center">
-    <img src="../assets/img/documents3.jpg" width="180" height="400" />
+    <img src="../assets/img/documents3.jpeg" width="180" height="400" />
     <p align="left">
       After scanning, visual enhancements are applied automatically. You can adjust the settings if needed and also scan more than one document at once. Use the done button to close the scanner.
     </p>
@@ -57,7 +57,7 @@ When creating a document, you can opt-in to extract text, which can later be use
 
 
 <div class="container" align="center">
-    <img src="../assets/img/documents3.jpg" width="180" height="400" />
+    <img src="../assets/img/documents3.jpeg" width="180" height="400" />
     <p align="left">
       Scanned documents and PDFs are displayed under documents. You can use the Delete document button to remove the related document from the selection.
     </p>
@@ -65,24 +65,24 @@ When creating a document, you can opt-in to extract text, which can later be use
 
 ### OCR (Text detection)
 <div class="container" align="center">
-    <img src="../assets/img/documents3.jpg" width="180" height="400" />
+    <img src="../assets/img/documents3.jpeg" width="180" height="400" />
     <p align="left">
-      Athena supports detecting text in images and documents. To use the OCR feature, it has to be set up when using it for the first time. See [Setting up OCR](https://devsmn.de/app_help_settings_ocr.md) for further information.
+      Athena supports detecting text in images and documents. To use the OCR feature, it has to be set up when using it for the first time. See <a href="https://devsmn.de/app_help_settings.ocr.md">Setting up OCR</a> for further information.
       Enable the "Detect text in documents" option to detect text when creating the document.
     </p>
 </div>
 
 ### Additional information
 <div class="container" align="center">
-    <img src="../assets/img/documents3.jpg" width="180" height="400" />
+    <img src="../assets/img/documents3.jpeg" width="180" height="400" />
     <p align="left">
-      Similar to folders, documents have a name and an optional comment. Additionally, documents can be tagged. Refer to [Tags](https://devsmn.de/app_help_tags.md) for further information.
+      Similar to folders, documents have a name and an optional comment. Additionally, documents can be tagged. Refer to <a href="app_help_tags.md">Tags</a> for further information.
     </p>
 </div>
 
 ### Done!
 <div class="container" align="center">
-    <img src="../assets/img/documents3.jpg" width="180" height="400" />
+    <img src="../assets/img/documents3.jpeg" width="180" height="400" />
     <p align="left">
       The last site shows the summary after creating the document. 
     </p>

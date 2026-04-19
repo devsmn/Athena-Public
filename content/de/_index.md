@@ -61,7 +61,7 @@ Warum Athena?
 
 {{% blocks/feature title="Kostenlos" icon="fa-solid fa-money-check-dollar" %}}
 
-Athena ist kostenlos. Es ist keine Registierung oder Abo erforderlich.
+Athena ist kostenlos. Es ist keine Registrierung oder Abo erforderlich.
 
 
 {{% /blocks/feature %}}

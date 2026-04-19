@@ -1,6 +1,6 @@
 ---
 title: Athena
-description: Available for free on android
+description: Kostenlos verfügbar für Android
 params:
   body_class: td-navbar-links-all-active
 ---
@@ -17,11 +17,12 @@ params:
     color="primary bg-gradient td-below-navbar"
 -->
 
-Manage your documents with Athena. Simple, secure and without registration.
+Verwalte deine Dokumente mit Athena. Einfach, sicher und ohne Registrierung.
 
-Create PDFs from images and documents and search through your documents for information - all without needing an internet connection.
 
-And the best thing about it? Your data never leaves your phone.
+Erstelle PDFs aus Dokumenten und Bildern und durchsuche deine Unterlagen nach wichtigen Informationen - komplett ohne Internetverbindung. 
+
+Und das beste daran? Deine Daten verlassen niemals dein Handy.
 <!-- prettier-ignore -->
 {{% _param description %}}
 {.display-6}
@@ -52,24 +53,24 @@ And the best thing about it? Your data never leaves your phone.
 {{% /blocks/cover %}}
  {{% blocks/lead color="white"  %}}
 
-Why choose Athena?
+Warum Athena?
 
 {{% /blocks/lead %}}
 
 {{% blocks/section color="secondary" type="row" %}}
 
-{{% blocks/feature title="Free" icon="fa-solid fa-money-check-dollar" %}}
+{{% blocks/feature title="Kostenlos" icon="fa-solid fa-money-check-dollar" %}}
 
-Athena is free to use and does not require any subscription or registration
+Athena ist kostenlos. Es ist keine Registierung oder Abo erforderlich.
 
 
 {{% /blocks/feature %}}
 
 {{% blocks/feature
-  title="Privacy" icon="fa-solid fa-lock"
+  title="Datensicherheit" icon="fa-solid fa-lock"
 %}}
 
-Athena respects your privcay. Everything stays on your device and you have full control over your data.
+Athena respektiert deine Privatsphäre. Alle Informationen und Dokumente bleiben auf deinem Gerät. Du hast die komplette Kontrolle über deine Daten.
 
 {{% /blocks/feature %}}
 
@@ -77,7 +78,7 @@ Athena respects your privcay. Everything stays on your device and you have full 
   title="Offline" icon="fa-solid fa-link-slash"
 %}}
 
-Athena works fully offline. No internet connection is required.
+Athena funktioniert komplett ohne Internetverbindung.
 
 {{% /blocks/feature %}}
 
@@ -85,7 +86,7 @@ Athena works fully offline. No internet connection is required.
 
 {{% blocks/section color="white" type="row text-center h4" %}}
 
-Do you need more information? 
+Du brauchst noch mehr Informationen?
 
 {{% /blocks/section %}}
 
@@ -96,7 +97,7 @@ Do you need more information?
   url="/roadmap"
 %}}
 
-See what's planned for the next versions
+Was ist in den nächsten Versionen geplant?
 
 {{% /blocks/feature %}}
 
@@ -105,7 +106,7 @@ See what's planned for the next versions
   url="/latest_release"
 %}}
 
-Information about the latest version
+Informationen über die aktuellste Version
 
 {{% /blocks/feature %}}
 
@@ -114,16 +115,17 @@ Information about the latest version
   url="/changelog"
 %}}
 
-See what has changed in previous versions
+Was hat sich geändert?
+
 
 {{% /blocks/feature %}}
 
 {{% blocks/feature
-  title="Help" icon="fa-solid fa-circle-question"
+  title="Hilfe" icon="fa-solid fa-circle-question"
   url="/help"
 %}}
 
-How to use Athena
+Wie benutzt man Athena?
 
 {{% /blocks/feature %}}
 
@@ -132,16 +134,16 @@ How to use Athena
   url="https://forms.gle/SDAERdx1JGny77EZ7"
 %}}
 
-Contact us to report a bug, request a new feature or general questions about Athena
+Melde Probleme, schlage neue Features vor oder stelle eine generelle Frage über Athena
 
 {{% /blocks/feature %}}
 
 {{% blocks/feature
-  title="Contact" icon="fa-solid fa-at"
+  title="Kontakt" icon="fa-solid fa-at"
   url="mailto:phoenixsoftwaresln@gmail.com"
 %}}
 
-Contact us for general requests unrelated to Athena
+Kontakt für generelle Fragen - nicht auf Athena bezogen
 
 {{% /blocks/feature %}}
 

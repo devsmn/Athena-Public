@@ -1,5 +1,5 @@
 baseURL: https://example.docsy.dev
-title: Goldydocs
+title: Athena
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu slugorcontentbasename
 
@@ -57,27 +57,18 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Goldydocs
+    title: Athena
     params:
-      description: A Docsy example site
+      description: Athena - Simple Document Manager
   # cSpell:disable
-  no:
-    languageName: Norsk
-    contentDir: content/no
-    title: Gulldoks
+  de:
+    languageName: Deutsch
+    contentDir: content/de
+    title: Athena
     params:
-      description: Docsy er operativsystem for skyen
+      description: Athena - Simple Document Manager
       time_format_default: 02.01.2006
       time_format_blog: 02.01.2006
-  fa:
-    languageDirection: rtl
-    languageName: 'فارسی (Persian)'
-    contentDir: content/fa
-    title: 'اسناد گلدی'
-    params:
-      description: 'یک نمونه برای پوسته داکسی'
-      time_format_default: 2006.01.02
-      time_format_blog: 2006.01.02
   # cSpell:enable
 
 markup:
@@ -112,7 +103,7 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://policies.google.com/privacy
+  privacy_policy: https://athena.devsmn.de/privacy/
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -135,17 +126,17 @@ params:
   versionWithBuildId: 0.14.4-dev
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://github.com/google/docsy-example
+  github_repo: https://github.com/devsmn/Athena
 
   # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-  github_project_repo: https://github.com/google/docsy
+  github_project_repo: https://github.com/devsmn/Athena
 
   # Specify a value here if your content directory is not in your repo's root directory
   # github_subdir: ""
 
   # Uncomment this if your GitHub repo does not have "main" as the default branch,
   # or specify a new value if you want to reference another branch in your GitHub links
-  github_branch: main
+  github_branch: master
 
   # Google Custom Search Engine ID. Remove or comment out to disable search.
   gcs_engine_id: d72aa9b2712488cc3
@@ -156,18 +147,20 @@ params:
   # Enable syntax highlighting and copy buttons on code blocks with Prism
   prism_syntax_highlighting: false
 
+  favicon: false
+
   copyright:
     authors: >-
-      Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-    from_year: 2018
-    to_year: present
+      Simon Pflaum |
+    from_year: 2025
+    to_year: 2026
 
   # User interface configuration
   ui:
     # Set to true to disable breadcrumb navigation.
     breadcrumb_disable: false
     # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
-    navbar_logo: true
+    navbar_logo: false
     # Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
     navbar_translucent_over_cover_disable: false
 
@@ -205,39 +198,22 @@ params:
   btn-lg: class="btn btn-lg btn-{1}" role="button"
   FA: <i class="fa-{1} fa-{2} text-{3} px-1"></i>
 
+
   links:
-    # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-    user:
-      - name: User mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discussion and help from your fellow users
-      - name: X
-        url: https://example.org/x
-        icon: fab fa-x-twitter
-        desc: Follow us on X to get the latest news!
-      - name: Stack Overflow
-        url: https://example.org/stack
-        icon: fab fa-stack-overflow
-        desc: Practical questions and curated answers
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
-      - name: Site info
-        url: /site/
-        icon: fa-solid fa-hammer
-        desc: Site build information.
-      - name: GitHub
-        url: https://github.com/google/docsy
+      - name: Sourcecode - Website
+        url: https://github.com/devsmn/Athena-Public
+        icon: fab fa-github-alt
+        desc: Source of the website
+      - name: Sourcecode - Athena
+        url: https://github.com/devsmn/Athena-Public
         icon: fab fa-github
-        desc: Development takes place here!
-      - name: Slack
-        url: https://example.org/slack
-        icon: fab fa-slack
-        desc: Chat with other project developers
-      - name: Developer mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discuss development issues around the project
+        desc: Source of the website
+      - name: Developer portfolio
+        url: https://devsmn.de
+        icon: fa-solid fa-code
+        desc: Homepage
 
 security:
   funcs: # cspell:disable-line

@@ -1,4 +1,4 @@
-baseURL: https://example.docsy.dev
+baseURL: https://athena.devsmn.de
 title: Athena
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu slugorcontentbasename
@@ -207,7 +207,7 @@ params:
         icon: fab fa-github-alt
         desc: Source of the website
       - name: Sourcecode - Athena
-        url: https://github.com/devsmn/Athena-Public
+        url: https://github.com/devsmn/Athena
         icon: fab fa-github
         desc: Source of the website
       - name: Developer portfolio

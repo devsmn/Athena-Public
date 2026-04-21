@@ -202,6 +202,10 @@ params:
   links:
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
+      - name: Impressum/Imprint
+        url: https://devsmn.de/impressum.html
+        icon: fa-solid fa-gavel
+        desc: Impressum
       - name: Sourcecode - Website
         url: https://github.com/devsmn/Athena-Public
         icon: fab fa-github-alt

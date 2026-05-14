@@ -6,7 +6,7 @@ params:
 ---
 
 {{% blocks/cover
-  title="Athena: Simple Document Manager"
+  title="Athena: Document Manager"
   height="full td-below-navbar"
   image_anchor="top"
 %}}

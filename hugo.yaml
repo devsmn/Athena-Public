@@ -59,14 +59,14 @@ languages:
     languageName: English
     title: Athena
     params:
-      description: Athena - Simple Document Manager
+      description: Athena - Document Manager
   # cSpell:disable
   de:
     languageName: Deutsch
     contentDir: content/de
     title: Athena
     params:
-      description: Athena - Simple Document Manager
+      description: Athena - Document Manager
       time_format_default: 02.01.2006
       time_format_blog: 02.01.2006
   # cSpell:enable

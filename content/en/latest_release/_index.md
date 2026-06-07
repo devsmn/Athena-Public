@@ -11,7 +11,6 @@ Take a look at our [blog post](https://athena.devsmn.de/blog/2025/12/29/2025-12-
 
 ## v2.1.0 - (2026-06-17) 
 
- ([#143](https://github.com/devsmn/Athena/issues/143))
 ### Added
 - The document scanner import limit was removed ([#155](https://github.com/devsmn/Athena/issues/155))
 

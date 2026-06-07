@@ -6,8 +6,8 @@ menu: { main: { weight: 40 } }
 
 
 {{% blocks/section color=white" %}}
-
-Take a look at our [blog post](https://athena.devsmn.de/blog/2025/12/29/2025-12-29-release-v203/) for a detailed description of the release.
+https://athena.devsmn.de/blog/2026/06/07/2026-06-07-release-v210/
+Take a look at our [blog post](https://athena.devsmn.de/blog/2026/06/07/2026-06-07-release-v210/) for a detailed description of the release.
 
 ## v2.1.0 - (2026-06-17) 
 

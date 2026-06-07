@@ -5,9 +5,15 @@ menu: { main: { weight: 40 } }
 ---
 {{% blocks/section color=white" %}}
 
-## Latest release: v2.0.3 (2025-12-29)
+## Latest release: v2.1.0 (2026-07-06)
 Refer to the [latest release notes](https://devsmn.github.io/Athena-Public/app_latest_release/) page for more details.
 
+___
+
+## v2.0.3 - (2025-12-19) 
+
+### Fixed
+- The primary login could lead to a crash if the provided biometric data was not recognized ([#143](https://github.com/devsmn/Athena/issues/143))
 
 ___
 

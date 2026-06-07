@@ -6,7 +6,7 @@ menu: { main: { weight: 40 } }
 {{% blocks/section color=white" %}}
 
 ## Latest release: v2.1.0 (2026-07-06)
-Refer to the [latest release notes](https://devsmn.github.io/Athena-Public/app_latest_release/) page for more details.
+Refer to the [latest release notes](https://athena.devsmn.de/latest_release/) page for more details.
 
 ___
 

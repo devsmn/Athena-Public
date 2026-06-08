@@ -6,16 +6,11 @@ menu: { main: { weight: 40 } }
 
 {{% blocks/section color=white" %}}
 
-## Next feature version (v2.1.0)
-The next version with improvement and features (*v2.1.0*) will focus on:
-Doument/PDF related improvements.
-- Protect the document/PDF with a password (also applied after sharing the document)
-- Edit the document (add text, mark regions, etc.)
-- Add, remove or reorder pages within a document
+## Next feature version (v2.2.0)
 
-For further information, refer to the planned [issues](https://github.com/devsmn/Athena/issues?q=is%3Aissue%20milestone%3Av2.1.0) on GitHub.
+For further information, refer to the planned [issues](https://github.com/devsmn/Athena/issues?q=is%3Aissue%20milestone%3Av2.2.0) on GitHub.
 
-**Note:** A bugfix version (*v2.0.4*) might be released in the meantime.
+**Note:** A bugfix version (*v2.1.1*) might be released in the meantime.
 
 ___
 
